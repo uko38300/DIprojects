@@ -12,6 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		NewPage1.cs = NewPage1.cs
 		NewPage1.xaml = NewPage1.xaml
 		NewPage1.xaml.cs = NewPage1.xaml.cs
+		FlyoutPageDemo.xaml.cs = FlyoutPageDemo.xaml.cs
 	EndProjectSection
 EndProject
 Global
